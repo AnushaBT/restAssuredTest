@@ -65,6 +65,7 @@ public class PostsTest extends FunctionalTest{
 		System.out.println("Testing ad more time");
 		System.out.println("Testing ad 4th line time");
 		System.out.println("Test conflict");
+		System.out.println("Testing 5th time");
 		
 	}
 }
