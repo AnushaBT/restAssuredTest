@@ -61,5 +61,6 @@ public class PostsTest extends FunctionalTest{
 	@Test
 	public void newTest() {
 		System.out.println("testing");
+		System.out.println("Testing one more time");
 	}
 }
