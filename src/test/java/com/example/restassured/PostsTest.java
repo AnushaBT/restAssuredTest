@@ -57,4 +57,9 @@ public class PostsTest extends FunctionalTest{
 		        contentType(ContentType.JSON).assertThat().
 		       body("findAll {it}.id", hasItem(postId));
 	}
+	
+	@Test
+	public void newTest() {
+		System.out.println("testing");
+	}
 }
