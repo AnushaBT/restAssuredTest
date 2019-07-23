@@ -1,0 +1,19 @@
+<suite name="Test Suite1">
+
+<test name="Posts Test 1" >
+
+ <classes>
+ 
+ <class name="com.example.restassured.PostsTest" />
+ 
+ 
+
+</classes>
+
+</test>
+
+</suite>
+
+ 
+
+ 
